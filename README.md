@@ -4,5 +4,5 @@ This system is divided into two parts,the management end and the  staff end. The
 ![image](./pic/1.gif)
 The partial operations are shown below.
 ![image](./pic/2.gif)
-The aim why I share this system online is to help the people who want to use python to write their own graphical program.
+The aim why I share this system online is to help the people who want to use python to write their own graphical program. Fighting together！！！
 
